@@ -1,0 +1,15 @@
+{
+	"id": "de5bb15e-3645-46c1-b2b9-f8f85758a328",
+	"name": "restful-booker-env",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-06-25T17:16:57.180Z",
+	"_postman_exported_using": "Postman/10.15.4"
+}
